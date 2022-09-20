@@ -1,0 +1,14 @@
+:root {
+  text-align: center;
+  background-color: black;
+  color: whitesmoke;
+}
+
+.App {
+  font-family: sans-serif;
+}
+
+button {
+  color: rgb(113, 32, 218);
+  font-weight: bold;
+}
